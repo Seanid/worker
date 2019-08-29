@@ -25,7 +25,12 @@
 
 ### HJSD
 [基于cookie的多系统登录](./HJSD/SSO.md)
+
+
 [Vertica 数据清理](./HJSD/VERTICA-CLEAN-CACH.md)
+
+[记一次rsync的io问题排查](./HJSD/RSYNC-IO.md)
+
 ---
 
 #### 点滴知识，源于思考
